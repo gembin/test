@@ -4,7 +4,7 @@
 
 See the [Quickstart](http://docs.init.ai/docs/quickstart) for details on setting up your development environment
 
-HEHE  HAHA
+XEXE  HAHA
 
 ### Installation
 
