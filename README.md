@@ -4,7 +4,11 @@
 
 See the [Quickstart](http://docs.init.ai/docs/quickstart) for details on setting up your development environment
 
-XEXE HEHE ZAZA GAGA HAHA
+
+* HAHA
+* HAHA2
+* HAHA3
+* HEHE
 
 * HAHA
 * HAHA2
