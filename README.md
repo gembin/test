@@ -9,10 +9,9 @@ See the [Quickstart](http://docs.init.ai/docs/quickstart) for details on setting
 * HAHA2
 * HAHA3
 * HEHE
-
-* HAHA
-* HAHA2
-* HAHA3
+* HEHE2
+* HEHE3
+* HEHE4
 
 ### Installation
 
