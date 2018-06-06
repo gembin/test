@@ -12,6 +12,8 @@ See the [Quickstart](http://docs.init.ai/docs/quickstart) for details on setting
 * HEHE2
 * HEHE3
 * HEHE4
+** CACA
+** GAGA
 
 ### Installation
 
